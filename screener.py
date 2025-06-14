@@ -1,0 +1,1 @@
+# Screener logic for crypto, forex, stocks

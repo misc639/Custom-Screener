@@ -1,2 +1,3 @@
-# Custom-Screener
-Custom chart display
+# TradingView Clone Streamlit App
+
+Instructions to run...
